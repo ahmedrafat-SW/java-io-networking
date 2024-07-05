@@ -1,0 +1,1 @@
+this is a new string added to the text file using output stream
